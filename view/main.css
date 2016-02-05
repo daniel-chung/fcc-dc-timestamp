@@ -1,0 +1,31 @@
+body {
+  font-size: 14px;
+  font-family: sans-serif;
+}
+div.ct-main {
+  padding: 4em;
+  margin: auto;
+  width: 60%;
+}
+
+/* Style headers */
+h1 {
+  font-size: 3em;
+  color: #999;
+}
+h1 large {
+  font-size: 1.5em;
+  color: #666;
+}
+h3 {
+  font-size: 1.5em;
+  color: #666;
+}
+
+/* Make updates to rainbow.js theme color */
+code {
+  color: #666;
+}
+pre {
+  background: #F6F5EF;
+}
