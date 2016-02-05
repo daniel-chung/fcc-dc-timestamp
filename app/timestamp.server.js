@@ -1,4 +1,4 @@
-// /app/controllers/rsvpController.server.js
+// /app/controllers/timestamp.server.js
 'use strict';
 
 // Set up ----------------------------------------------------------------------
